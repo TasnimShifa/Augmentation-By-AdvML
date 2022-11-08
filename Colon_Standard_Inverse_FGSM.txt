@@ -1,0 +1,1033 @@
+
+
+ ------------------------------------Standard Training by UNet------------------------------------------------
+Epoch 0 :  
+		 Training Loss: : 0.1607 		 Training IoU: 0.960 		 Training ACC: : 95.982%
+ 		 Overall Acc: 0.9859  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9720 		 Mean IOU: 0.4930 %
+Epoch 1 :  
+		 Training Loss: : 0.0226 		 Training IoU: 0.994 		 Training ACC: : 99.435%
+ 		 Overall Acc: 0.9972  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9944 		 Mean IOU: 0.4986 %
+Epoch 2 :  
+		 Training Loss: : 0.0169 		 Training IoU: 0.994 		 Training ACC: : 99.435%
+ 		 Overall Acc: 0.9935  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9870 		 Mean IOU: 0.4967 %
+Epoch 3 :  
+		 Training Loss: : 0.0148 		 Training IoU: 0.994 		 Training ACC: : 99.435%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9954 		 Mean IOU: 0.4988 %
+Epoch 4 :  
+		 Training Loss: : 0.0128 		 Training IoU: 0.994 		 Training ACC: : 99.435%
+ 		 Overall Acc: 0.9976  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9952 		 Mean IOU: 0.4988 %
+Epoch 5 :  
+		 Training Loss: : 0.0112 		 Training IoU: 0.994 		 Training ACC: : 99.435%
+ 		 Overall Acc: 0.9942  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9885 		 Mean IOU: 0.4971 %
+Epoch 6 :  
+		 Training Loss: : 0.0097 		 Training IoU: 0.994 		 Training ACC: : 99.435%
+ 		 Overall Acc: 0.9951  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9903 		 Mean IOU: 0.4976 %
+Epoch 7 :  
+		 Training Loss: : 0.0085 		 Training IoU: 0.996 		 Training ACC: : 99.585%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.7737 		 Freqw Acc: 0.9957 		 Mean IOU: 0.7429 %
+Epoch 8 :  
+		 Training Loss: : 0.0071 		 Training IoU: 0.997 		 Training ACC: : 99.708%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.6401 		 Freqw Acc: 0.9960 		 Mean IOU: 0.6226 %
+Epoch 9 :  
+		 Training Loss: : 0.0067 		 Training IoU: 0.997 		 Training ACC: : 99.725%
+ 		 Overall Acc: 0.9973  		 Mean Acc: 0.9740 		 Freqw Acc: 0.9950 		 Mean IOU: 0.8981 %
+Epoch 10 :  
+		 Training Loss: : 0.0065 		 Training IoU: 0.997 		 Training ACC: : 99.733%
+ 		 Overall Acc: 0.9976  		 Mean Acc: 0.8448 		 Freqw Acc: 0.9954 		 Mean IOU: 0.8227 %
+Epoch 11 :  
+		 Training Loss: : 0.0062 		 Training IoU: 0.997 		 Training ACC: : 99.744%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.9213 		 Freqw Acc: 0.9961 		 Mean IOU: 0.8199 %
+Epoch 12 :  
+		 Training Loss: : 0.0069 		 Training IoU: 0.997 		 Training ACC: : 99.724%
+ 		 Overall Acc: 0.9963  		 Mean Acc: 0.8547 		 Freqw Acc: 0.9928 		 Mean IOU: 0.8263 %
+Epoch 13 :  
+		 Training Loss: : 0.0059 		 Training IoU: 0.998 		 Training ACC: : 99.758%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.9521 		 Freqw Acc: 0.9983 		 Mean IOU: 0.8681 %
+Epoch 14 :  
+		 Training Loss: : 0.0052 		 Training IoU: 0.998 		 Training ACC: : 99.779%
+ 		 Overall Acc: 0.9988  		 Mean Acc: 0.8825 		 Freqw Acc: 0.9977 		 Mean IOU: 0.8327 %
+Epoch 15 :  
+		 Training Loss: : 0.0050 		 Training IoU: 0.998 		 Training ACC: : 99.791%
+ 		 Overall Acc: 0.9984  		 Mean Acc: 0.9721 		 Freqw Acc: 0.9973 		 Mean IOU: 0.8437 %
+Epoch 16 :  
+		 Training Loss: : 0.0049 		 Training IoU: 0.998 		 Training ACC: : 99.794%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.9229 		 Freqw Acc: 0.9957 		 Mean IOU: 0.8686 %
+Epoch 17 :  
+		 Training Loss: : 0.0046 		 Training IoU: 0.998 		 Training ACC: : 99.804%
+ 		 Overall Acc: 0.9987  		 Mean Acc: 0.8869 		 Freqw Acc: 0.9975 		 Mean IOU: 0.8472 %
+Epoch 18 :  
+		 Training Loss: : 0.0043 		 Training IoU: 0.998 		 Training ACC: : 99.817%
+ 		 Overall Acc: 0.9983  		 Mean Acc: 0.8492 		 Freqw Acc: 0.9969 		 Mean IOU: 0.7928 %
+Epoch 19 :  
+		 Training Loss: : 0.0042 		 Training IoU: 0.998 		 Training ACC: : 99.824%
+ 		 Overall Acc: 0.9981  		 Mean Acc: 0.8801 		 Freqw Acc: 0.9965 		 Mean IOU: 0.8228 %
+Epoch 20 :  
+		 Training Loss: : 0.0040 		 Training IoU: 0.998 		 Training ACC: : 99.830%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.9553 		 Freqw Acc: 0.9974 		 Mean IOU: 0.8766 %
+Epoch 21 :  
+		 Training Loss: : 0.0039 		 Training IoU: 0.998 		 Training ACC: : 99.834%
+ 		 Overall Acc: 0.9975  		 Mean Acc: 0.8931 		 Freqw Acc: 0.9957 		 Mean IOU: 0.7846 %
+Epoch 22 :  
+		 Training Loss: : 0.0039 		 Training IoU: 0.998 		 Training ACC: : 99.835%
+ 		 Overall Acc: 0.9984  		 Mean Acc: 0.8973 		 Freqw Acc: 0.9968 		 Mean IOU: 0.8724 %
+Epoch 23 :  
+		 Training Loss: : 0.0038 		 Training IoU: 0.998 		 Training ACC: : 99.838%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.8800 		 Freqw Acc: 0.9973 		 Mean IOU: 0.8272 %
+Epoch 24 :  
+		 Training Loss: : 0.0037 		 Training IoU: 0.998 		 Training ACC: : 99.841%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.9662 		 Freqw Acc: 0.9962 		 Mean IOU: 0.8807 %
+Epoch 25 :  
+		 Training Loss: : 0.0037 		 Training IoU: 0.998 		 Training ACC: : 99.845%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.9309 		 Freqw Acc: 0.9959 		 Mean IOU: 0.8501 %
+Epoch 26 :  
+		 Training Loss: : 0.0036 		 Training IoU: 0.998 		 Training ACC: : 99.848%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.9656 		 Freqw Acc: 0.9961 		 Mean IOU: 0.8986 %
+Epoch 27 :  
+		 Training Loss: : 0.0037 		 Training IoU: 0.998 		 Training ACC: : 99.844%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.9162 		 Freqw Acc: 0.9956 		 Mean IOU: 0.8966 %
+Epoch 28 :  
+		 Training Loss: : 0.0037 		 Training IoU: 0.998 		 Training ACC: : 99.844%
+ 		 Overall Acc: 0.9984  		 Mean Acc: 0.9172 		 Freqw Acc: 0.9970 		 Mean IOU: 0.8772 %
+Epoch 29 :  
+		 Training Loss: : 0.0035 		 Training IoU: 0.999 		 Training ACC: : 99.853%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.8306 		 Freqw Acc: 0.9983 		 Mean IOU: 0.7974 %
+
+ ------------------------------------- Standard testing------------------------------------------
+
+Epoch : 0 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.5034 		 Freqw Acc: 0.9956 		 Mean IOU: 0.5023 %
+
+Epoch : 1 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.994%
+ 		 Overall Acc: 0.9940  		 Mean Acc: 0.6749 		 Freqw Acc: 0.9911 		 Mean IOU: 0.5839 %
+
+Epoch : 2 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9984  		 Mean Acc: 0.7228 		 Freqw Acc: 0.9969 		 Mean IOU: 0.7071 %
+
+Epoch : 3 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9965  		 Mean Acc: 0.7181 		 Freqw Acc: 0.9948 		 Mean IOU: 0.6082 %
+
+Epoch : 4 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.5512 		 Freqw Acc: 0.9954 		 Mean IOU: 0.5494 %
+
+Epoch : 5 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.994%
+ 		 Overall Acc: 0.9935  		 Mean Acc: 0.7225 		 Freqw Acc: 0.9891 		 Mean IOU: 0.6534 %
+
+Epoch : 6 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9969  		 Mean Acc: 0.6897 		 Freqw Acc: 0.9944 		 Mean IOU: 0.6560 %
+
+Epoch : 7 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.995%
+ 		 Overall Acc: 0.9954  		 Mean Acc: 0.5144 		 Freqw Acc: 0.9908 		 Mean IOU: 0.5121 %
+
+Epoch : 8 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9974  		 Mean Acc: 0.7039 		 Freqw Acc: 0.9956 		 Mean IOU: 0.6322 %
+
+Epoch : 9 
+ 		 testing Loss: : 0.0012 		 testing IoU: 0.992%
+ 		 Overall Acc: 0.9921  		 Mean Acc: 0.5463 		 Freqw Acc: 0.9843 		 Mean IOU: 0.5414 %
+
+Epoch : 10 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.8239 		 Freqw Acc: 0.9966 		 Mean IOU: 0.7093 %
+
+Epoch : 11 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.7058 		 Freqw Acc: 0.9933 		 Mean IOU: 0.6538 %
+
+Epoch : 12 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.994%
+ 		 Overall Acc: 0.9938  		 Mean Acc: 0.5744 		 Freqw Acc: 0.9902 		 Mean IOU: 0.5417 %
+
+Epoch : 13 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.6706 		 Freqw Acc: 0.9956 		 Mean IOU: 0.6602 %
+
+Epoch : 14 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9956  		 Mean Acc: 0.5151 		 Freqw Acc: 0.9912 		 Mean IOU: 0.5129 %
+
+Epoch : 15 
+ 		 testing Loss: : 0.0013 		 testing IoU: 0.993%
+ 		 Overall Acc: 0.9925  		 Mean Acc: 0.5508 		 Freqw Acc: 0.9854 		 Mean IOU: 0.5451 %
+
+Epoch : 16 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.999%
+ 		 Overall Acc: 0.9989  		 Mean Acc: 0.7974 		 Freqw Acc: 0.9979 		 Mean IOU: 0.7511 %
+
+Epoch : 17 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9968  		 Mean Acc: 0.7481 		 Freqw Acc: 0.9940 		 Mean IOU: 0.7167 %
+
+Epoch : 18 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9959  		 Mean Acc: 0.6286 		 Freqw Acc: 0.9920 		 Mean IOU: 0.6191 %
+
+Epoch : 19 
+ 		 testing Loss: : 0.0006 		 testing IoU: 0.993%
+ 		 Overall Acc: 0.9935  		 Mean Acc: 0.5832 		 Freqw Acc: 0.9879 		 Mean IOU: 0.5689 %
+
+Epoch : 20 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5075 		 Freqw Acc: 0.9934 		 Mean IOU: 0.5041 %
+
+Epoch : 21 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9961  		 Mean Acc: 0.6029 		 Freqw Acc: 0.9925 		 Mean IOU: 0.5927 %
+
+Epoch : 22 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9963  		 Mean Acc: 0.6004 		 Freqw Acc: 0.9936 		 Mean IOU: 0.5739 %
+
+Epoch : 23 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9960  		 Mean Acc: 0.4991 		 Freqw Acc: 0.9938 		 Mean IOU: 0.4980 %
+
+Epoch : 24 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9968  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9936 		 Mean IOU: 0.4984 %
+
+Epoch : 25 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9961  		 Mean Acc: 0.5838 		 Freqw Acc: 0.9922 		 Mean IOU: 0.5806 %
+
+Epoch : 26 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9971  		 Mean Acc: 0.5566 		 Freqw Acc: 0.9942 		 Mean IOU: 0.5546 %
+
+Epoch : 27 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9976  		 Mean Acc: 0.6169 		 Freqw Acc: 0.9961 		 Mean IOU: 0.5730 %
+
+Epoch : 28 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9959  		 Mean Acc: 0.5295 		 Freqw Acc: 0.9920 		 Mean IOU: 0.5260 %
+
+Epoch : 29 
+ 		 testing Loss: : 0.0012 		 testing IoU: 0.992%
+ 		 Overall Acc: 0.9919  		 Mean Acc: 0.5691 		 Freqw Acc: 0.9851 		 Mean IOU: 0.5560 %
+
+ -------------------------------------Adversarial testing by Inverse FGSM------------------------------------------
+
+		 Epsilon : 0.0000 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9983  		 Mean Acc: 0.9269 		 Freqw Acc: 0.9967 		 Mean IOU: 0.8822 %
+
+		 Epsilon : 0.0101 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9946  		 Mean Acc: 0.9081 		 Freqw Acc: 0.9924 		 Mean IOU: 0.6717 %
+
+		 Epsilon : 0.0202 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9910  		 Mean Acc: 0.9880 		 Freqw Acc: 0.9882 		 Mean IOU: 0.6496 %
+
+		 Epsilon : 0.0303 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9943  		 Mean Acc: 0.8645 		 Freqw Acc: 0.9906 		 Mean IOU: 0.7319 %
+
+		 Epsilon : 0.0404 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9940  		 Mean Acc: 0.8714 		 Freqw Acc: 0.9906 		 Mean IOU: 0.7045 %
+
+		 Epsilon : 0.0505 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9943  		 Mean Acc: 0.8521 		 Freqw Acc: 0.9911 		 Mean IOU: 0.7008 %
+
+		 Epsilon : 0.0606 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9951  		 Mean Acc: 0.5675 		 Freqw Acc: 0.9921 		 Mean IOU: 0.5405 %
+
+		 Epsilon : 0.0707 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9932  		 Mean Acc: 0.8202 		 Freqw Acc: 0.9892 		 Mean IOU: 0.6880 %
+
+		 Epsilon : 0.0808 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9969  		 Mean Acc: 0.9223 		 Freqw Acc: 0.9950 		 Mean IOU: 0.7543 %
+
+		 Epsilon : 0.0909 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9965  		 Mean Acc: 0.8774 		 Freqw Acc: 0.9937 		 Mean IOU: 0.8003 %
+
+		 Epsilon : 0.1010 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9949  		 Mean Acc: 0.7790 		 Freqw Acc: 0.9915 		 Mean IOU: 0.6904 %
+
+		 Epsilon : 0.1111 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.7233 		 Freqw Acc: 0.9958 		 Mean IOU: 0.6782 %
+
+		 Epsilon : 0.1212 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9958  		 Mean Acc: 0.7834 		 Freqw Acc: 0.9926 		 Mean IOU: 0.7113 %
+
+		 Epsilon : 0.1313 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9958  		 Mean Acc: 0.7053 		 Freqw Acc: 0.9922 		 Mean IOU: 0.6760 %
+
+		 Epsilon : 0.1414 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9946  		 Mean Acc: 0.7755 		 Freqw Acc: 0.9897 		 Mean IOU: 0.7501 %
+
+		 Epsilon : 0.1515 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9959  		 Mean Acc: 0.5805 		 Freqw Acc: 0.9922 		 Mean IOU: 0.5717 %
+
+		 Epsilon : 0.1616 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9954  		 Mean Acc: 0.6840 		 Freqw Acc: 0.9914 		 Mean IOU: 0.6580 %
+
+		 Epsilon : 0.1717 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9973  		 Mean Acc: 0.8876 		 Freqw Acc: 0.9948 		 Mean IOU: 0.8413 %
+
+		 Epsilon : 0.1818 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9969  		 Mean Acc: 0.6643 		 Freqw Acc: 0.9943 		 Mean IOU: 0.6390 %
+
+		 Epsilon : 0.1919 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9973  		 Mean Acc: 0.6679 		 Freqw Acc: 0.9948 		 Mean IOU: 0.6589 %
+
+		 Epsilon : 0.2020 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9961  		 Mean Acc: 0.5386 		 Freqw Acc: 0.9925 		 Mean IOU: 0.5343 %
+
+		 Epsilon : 0.2121 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9958  		 Mean Acc: 0.6172 		 Freqw Acc: 0.9923 		 Mean IOU: 0.5976 %
+
+		 Epsilon : 0.2222 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9961  		 Mean Acc: 0.5417 		 Freqw Acc: 0.9923 		 Mean IOU: 0.5394 %
+
+		 Epsilon : 0.2323 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9959  		 Mean Acc: 0.5513 		 Freqw Acc: 0.9917 		 Mean IOU: 0.5493 %
+
+		 Epsilon : 0.2424 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9937  		 Mean Acc: 0.5084 		 Freqw Acc: 0.9875 		 Mean IOU: 0.5053 %
+
+		 Epsilon : 0.2525 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9932  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9864 		 Mean IOU: 0.4966 %
+
+		 Epsilon : 0.2626 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9960  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9921 		 Mean IOU: 0.4980 %
+
+		 Epsilon : 0.2727 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9920  		 Mean Acc: 0.5437 		 Freqw Acc: 0.9841 		 Mean IOU: 0.5397 %
+
+		 Epsilon : 0.2828 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9936  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9872 		 Mean IOU: 0.4968 %
+
+		 Epsilon : 0.2929 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9947  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9893 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.3030 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9964  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9929 		 Mean IOU: 0.4982 %
+
+		 Epsilon : 0.3131 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9943  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9887 		 Mean IOU: 0.4972 %
+
+		 Epsilon : 0.3232 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9958  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9915 		 Mean IOU: 0.4979 %
+
+		 Epsilon : 0.3333 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9952  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9905 		 Mean IOU: 0.4976 %
+
+		 Epsilon : 0.3434 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9969  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9938 		 Mean IOU: 0.4985 %
+
+		 Epsilon : 0.3535 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9930  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9861 		 Mean IOU: 0.4965 %
+
+		 Epsilon : 0.3636 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9914  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9829 		 Mean IOU: 0.4957 %
+
+		 Epsilon : 0.3737 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9935  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9870 		 Mean IOU: 0.4967 %
+
+		 Epsilon : 0.3838 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9970  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9941 		 Mean IOU: 0.4985 %
+
+		 Epsilon : 0.3939 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9959  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9919 		 Mean IOU: 0.4980 %
+
+		 Epsilon : 0.4040 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9976  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9952 		 Mean IOU: 0.4988 %
+
+		 Epsilon : 0.4141 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9910  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9821 		 Mean IOU: 0.4955 %
+
+		 Epsilon : 0.4242 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9915  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9831 		 Mean IOU: 0.4958 %
+
+		 Epsilon : 0.4343 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9933  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9867 		 Mean IOU: 0.4967 %
+
+		 Epsilon : 0.4444 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9924 		 Mean IOU: 0.4981 %
+
+		 Epsilon : 0.4545 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9947  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9894 		 Mean IOU: 0.4974 %
+
+		 Epsilon : 0.4646 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9969  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9938 		 Mean IOU: 0.4985 %
+
+		 Epsilon : 0.4747 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9946  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9893 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.4848 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9935  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9870 		 Mean IOU: 0.4967 %
+
+		 Epsilon : 0.4949 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9927  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9855 		 Mean IOU: 0.4964 %
+
+		 Epsilon : 0.5051 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9955 		 Mean IOU: 0.4989 %
+
+		 Epsilon : 0.5152 		 Inverse FGSM testing Loss: : 0.0009 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9906  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9813 		 Mean IOU: 0.4953 %
+
+		 Epsilon : 0.5253 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9959  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9918 		 Mean IOU: 0.4979 %
+
+		 Epsilon : 0.5354 		 Inverse FGSM testing Loss: : 0.0013 		 Inverse FGSM testing IoU: 0.989%
+ 		 Overall Acc: 0.9892  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9785 		 Mean IOU: 0.4946 %
+
+		 Epsilon : 0.5455 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9973  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9946 		 Mean IOU: 0.4986 %
+
+		 Epsilon : 0.5556 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9941  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9882 		 Mean IOU: 0.4970 %
+
+		 Epsilon : 0.5657 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9939  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9878 		 Mean IOU: 0.4969 %
+
+		 Epsilon : 0.5758 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9936  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9872 		 Mean IOU: 0.4968 %
+
+		 Epsilon : 0.5859 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9976  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9952 		 Mean IOU: 0.4988 %
+
+		 Epsilon : 0.5960 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9964  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9929 		 Mean IOU: 0.4982 %
+
+		 Epsilon : 0.6061 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9982  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9964 		 Mean IOU: 0.4991 %
+
+		 Epsilon : 0.6162 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9949  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9898 		 Mean IOU: 0.4974 %
+
+		 Epsilon : 0.6263 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9980  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9960 		 Mean IOU: 0.4990 %
+
+		 Epsilon : 0.6364 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9953  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9907 		 Mean IOU: 0.4977 %
+
+		 Epsilon : 0.6465 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9943  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9886 		 Mean IOU: 0.4971 %
+
+		 Epsilon : 0.6566 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9938  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9876 		 Mean IOU: 0.4969 %
+
+		 Epsilon : 0.6667 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9956 		 Mean IOU: 0.4989 %
+
+		 Epsilon : 0.6768 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9943  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9886 		 Mean IOU: 0.4971 %
+
+		 Epsilon : 0.6869 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9964  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9929 		 Mean IOU: 0.4982 %
+
+		 Epsilon : 0.6970 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9959  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9918 		 Mean IOU: 0.4979 %
+
+		 Epsilon : 0.7071 		 Inverse FGSM testing Loss: : 0.0014 		 Inverse FGSM testing IoU: 0.988%
+ 		 Overall Acc: 0.9880  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9762 		 Mean IOU: 0.4940 %
+
+		 Epsilon : 0.7172 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9928  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9857 		 Mean IOU: 0.4964 %
+
+		 Epsilon : 0.7273 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9980  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9960 		 Mean IOU: 0.4990 %
+
+		 Epsilon : 0.7374 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9971  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9941 		 Mean IOU: 0.4985 %
+
+		 Epsilon : 0.7475 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9942  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9885 		 Mean IOU: 0.4971 %
+
+		 Epsilon : 0.7576 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9947  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9893 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.7677 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9966  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9932 		 Mean IOU: 0.4983 %
+
+		 Epsilon : 0.7778 		 Inverse FGSM testing Loss: : 0.0011 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9920  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9841 		 Mean IOU: 0.4960 %
+
+		 Epsilon : 0.7879 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9925 		 Mean IOU: 0.4981 %
+
+		 Epsilon : 0.7980 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9966  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9931 		 Mean IOU: 0.4983 %
+
+		 Epsilon : 0.8081 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9946  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9893 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.8182 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9975  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9949 		 Mean IOU: 0.4987 %
+
+		 Epsilon : 0.8283 		 Inverse FGSM testing Loss: : 0.0014 		 Inverse FGSM testing IoU: 0.990%
+ 		 Overall Acc: 0.9898  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9797 		 Mean IOU: 0.4949 %
+
+		 Epsilon : 0.8384 		 Inverse FGSM testing Loss: : 0.0009 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9940  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9880 		 Mean IOU: 0.4970 %
+
+		 Epsilon : 0.8485 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9952  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9905 		 Mean IOU: 0.4976 %
+
+		 Epsilon : 0.8586 		 Inverse FGSM testing Loss: : 0.0011 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9930  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9860 		 Mean IOU: 0.4965 %
+
+		 Epsilon : 0.8687 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9945  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9891 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.8788 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9969  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9938 		 Mean IOU: 0.4985 %
+
+		 Epsilon : 0.8889 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9967  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9934 		 Mean IOU: 0.4984 %
+
+		 Epsilon : 0.8990 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9954  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9907 		 Mean IOU: 0.4977 %
+
+		 Epsilon : 0.9091 		 Inverse FGSM testing Loss: : 0.0013 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9908  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9817 		 Mean IOU: 0.4954 %
+
+		 Epsilon : 0.9192 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9967  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9934 		 Mean IOU: 0.4983 %
+
+		 Epsilon : 0.9293 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9972  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9943 		 Mean IOU: 0.4986 %
+
+		 Epsilon : 0.9394 		 Inverse FGSM testing Loss: : 0.0014 		 Inverse FGSM testing IoU: 0.990%
+ 		 Overall Acc: 0.9899  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9799 		 Mean IOU: 0.4950 %
+
+		 Epsilon : 0.9495 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9988  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9977 		 Mean IOU: 0.4994 %
+
+		 Epsilon : 0.9596 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9955  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9910 		 Mean IOU: 0.4977 %
+
+		 Epsilon : 0.9697 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9924 		 Mean IOU: 0.4981 %
+
+		 Epsilon : 0.9798 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9963  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9926 		 Mean IOU: 0.4981 %
+
+		 Epsilon : 0.9899 		 Inverse FGSM testing Loss: : 0.0016 		 Inverse FGSM testing IoU: 0.989%
+ 		 Overall Acc: 0.9888  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9777 		 Mean IOU: 0.4944 %
+
+		 Epsilon : 1.0000 		 Inverse FGSM testing Loss: : 0.0012 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9929  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9859 		 Mean IOU: 0.4965 %
+
+ --------------------------------------Adversarial training by Inverse FGSM (random eps) --------------------------------------------
+
+		 Epoch: 0 		 Epsilon : 0.0529 		 Inverse FGSM training Loss: : 0.0107 		 Inverse FGSM training IoU: 0.997%
+ 		 Overall Acc: 0.9967  		 Mean Acc: 0.7379 		 Freqw Acc: 0.9937 		 Mean IOU: 0.7115 %
+
+		 Epoch: 1 		 Epsilon : 0.0799 		 Inverse FGSM training Loss: : 0.0071 		 Inverse FGSM training IoU: 0.997%
+ 		 Overall Acc: 0.9989  		 Mean Acc: 0.8303 		 Freqw Acc: 0.9979 		 Mean IOU: 0.8044 %
+
+		 Epoch: 2 		 Epsilon : 0.0444 		 Inverse FGSM training Loss: : 0.0062 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.9230 		 Freqw Acc: 0.9962 		 Mean IOU: 0.7806 %
+
+		 Epoch: 3 		 Epsilon : 0.0829 		 Inverse FGSM training Loss: : 0.0056 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9981  		 Mean Acc: 0.8935 		 Freqw Acc: 0.9964 		 Mean IOU: 0.8629 %
+
+		 Epoch: 4 		 Epsilon : 0.0493 		 Inverse FGSM training Loss: : 0.0053 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.9231 		 Freqw Acc: 0.9974 		 Mean IOU: 0.8666 %
+
+		 Epoch: 5 		 Epsilon : 0.0159 		 Inverse FGSM training Loss: : 0.0056 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9982  		 Mean Acc: 0.8559 		 Freqw Acc: 0.9967 		 Mean IOU: 0.8211 %
+
+		 Epoch: 6 		 Epsilon : 0.0229 		 Inverse FGSM training Loss: : 0.0049 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9988  		 Mean Acc: 0.9153 		 Freqw Acc: 0.9978 		 Mean IOU: 0.8602 %
+
+		 Epoch: 7 		 Epsilon : 0.0423 		 Inverse FGSM training Loss: : 0.0050 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9974  		 Mean Acc: 0.8393 		 Freqw Acc: 0.9950 		 Mean IOU: 0.8139 %
+
+		 Epoch: 8 		 Epsilon : 0.0838 		 Inverse FGSM training Loss: : 0.0049 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9981  		 Mean Acc: 0.8921 		 Freqw Acc: 0.9966 		 Mean IOU: 0.7867 %
+
+		 Epoch: 9 		 Epsilon : 0.0566 		 Inverse FGSM training Loss: : 0.0045 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9983  		 Mean Acc: 0.9513 		 Freqw Acc: 0.9969 		 Mean IOU: 0.8528 %
+
+		 Epoch: 10 		 Epsilon : 0.0468 		 Inverse FGSM training Loss: : 0.0046 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9967  		 Mean Acc: 0.9096 		 Freqw Acc: 0.9941 		 Mean IOU: 0.8241 %
+
+		 Epoch: 11 		 Epsilon : 0.0238 		 Inverse FGSM training Loss: : 0.0044 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9992  		 Mean Acc: 0.9272 		 Freqw Acc: 0.9984 		 Mean IOU: 0.8973 %
+
+		 Epoch: 12 		 Epsilon : 0.0017 		 Inverse FGSM training Loss: : 0.0044 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9988  		 Mean Acc: 0.8637 		 Freqw Acc: 0.9978 		 Mean IOU: 0.8069 %
+
+		 Epoch: 13 		 Epsilon : 0.0208 		 Inverse FGSM training Loss: : 0.0043 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9976  		 Mean Acc: 0.8835 		 Freqw Acc: 0.9955 		 Mean IOU: 0.8474 %
+
+		 Epoch: 14 		 Epsilon : 0.0541 		 Inverse FGSM training Loss: : 0.0041 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9989  		 Mean Acc: 0.9643 		 Freqw Acc: 0.9978 		 Mean IOU: 0.9355 %
+
+		 Epoch: 15 		 Epsilon : 0.0187 		 Inverse FGSM training Loss: : 0.0041 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9992  		 Mean Acc: 0.8494 		 Freqw Acc: 0.9985 		 Mean IOU: 0.7944 %
+
+		 Epoch: 16 		 Epsilon : 0.0430 		 Inverse FGSM training Loss: : 0.0040 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.9423 		 Freqw Acc: 0.9961 		 Mean IOU: 0.9056 %
+
+		 Epoch: 17 		 Epsilon : 0.0456 		 Inverse FGSM training Loss: : 0.0040 		 Inverse FGSM training IoU: 0.998%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.9223 		 Freqw Acc: 0.9975 		 Mean IOU: 0.8413 %
+
+		 Epoch: 18 		 Epsilon : 0.0615 		 Inverse FGSM training Loss: : 0.0038 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9981  		 Mean Acc: 0.8441 		 Freqw Acc: 0.9964 		 Mean IOU: 0.8133 %
+
+		 Epoch: 19 		 Epsilon : 0.0633 		 Inverse FGSM training Loss: : 0.0038 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.7797 		 Freqw Acc: 0.9959 		 Mean IOU: 0.7594 %
+
+		 Epoch: 20 		 Epsilon : 0.0143 		 Inverse FGSM training Loss: : 0.0036 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.8767 		 Freqw Acc: 0.9982 		 Mean IOU: 0.8661 %
+
+		 Epoch: 21 		 Epsilon : 0.0652 		 Inverse FGSM training Loss: : 0.0039 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9987  		 Mean Acc: 0.8340 		 Freqw Acc: 0.9976 		 Mean IOU: 0.8188 %
+
+		 Epoch: 22 		 Epsilon : 0.0735 		 Inverse FGSM training Loss: : 0.0038 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9988  		 Mean Acc: 0.9232 		 Freqw Acc: 0.9977 		 Mean IOU: 0.8590 %
+
+		 Epoch: 23 		 Epsilon : 0.0489 		 Inverse FGSM training Loss: : 0.0037 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9987  		 Mean Acc: 0.8655 		 Freqw Acc: 0.9975 		 Mean IOU: 0.8575 %
+
+		 Epoch: 24 		 Epsilon : 0.0400 		 Inverse FGSM training Loss: : 0.0036 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9989  		 Mean Acc: 0.9329 		 Freqw Acc: 0.9979 		 Mean IOU: 0.9009 %
+
+		 Epoch: 25 		 Epsilon : 0.0734 		 Inverse FGSM training Loss: : 0.0035 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9990  		 Mean Acc: 0.8801 		 Freqw Acc: 0.9980 		 Mean IOU: 0.8383 %
+
+		 Epoch: 26 		 Epsilon : 0.0536 		 Inverse FGSM training Loss: : 0.0034 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.8255 		 Freqw Acc: 0.9961 		 Mean IOU: 0.7646 %
+
+		 Epoch: 27 		 Epsilon : 0.0089 		 Inverse FGSM training Loss: : 0.0033 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.9165 		 Freqw Acc: 0.9984 		 Mean IOU: 0.8669 %
+
+		 Epoch: 28 		 Epsilon : 0.0107 		 Inverse FGSM training Loss: : 0.0032 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9987  		 Mean Acc: 0.9736 		 Freqw Acc: 0.9975 		 Mean IOU: 0.9425 %
+
+		 Epoch: 29 		 Epsilon : 0.0655 		 Inverse FGSM training Loss: : 0.0031 		 Inverse FGSM training IoU: 0.999%
+ 		 Overall Acc: 0.9984  		 Mean Acc: 0.9617 		 Freqw Acc: 0.9969 		 Mean IOU: 0.9198 %
+
+ -------------------------------------Adversarial testing after adversarial training------------------------------------------
+
+		 Epsilon : 0.0000 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9981  		 Mean Acc: 0.9134 		 Freqw Acc: 0.9962 		 Mean IOU: 0.8872 %
+
+		 Epsilon : 0.0101 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9990  		 Mean Acc: 0.9146 		 Freqw Acc: 0.9981 		 Mean IOU: 0.8710 %
+
+		 Epsilon : 0.0202 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9993  		 Mean Acc: 0.9315 		 Freqw Acc: 0.9987 		 Mean IOU: 0.9045 %
+
+		 Epsilon : 0.0303 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.9187 		 Freqw Acc: 0.9982 		 Mean IOU: 0.9082 %
+
+		 Epsilon : 0.0404 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.8652 		 Freqw Acc: 0.9982 		 Mean IOU: 0.8577 %
+
+		 Epsilon : 0.0505 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9988  		 Mean Acc: 0.9559 		 Freqw Acc: 0.9978 		 Mean IOU: 0.9161 %
+
+		 Epsilon : 0.0606 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.8909 		 Freqw Acc: 0.9974 		 Mean IOU: 0.8548 %
+
+		 Epsilon : 0.0707 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.8729 		 Freqw Acc: 0.9983 		 Mean IOU: 0.8120 %
+
+		 Epsilon : 0.0808 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9991  		 Mean Acc: 0.9547 		 Freqw Acc: 0.9984 		 Mean IOU: 0.8803 %
+
+		 Epsilon : 0.0909 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9990  		 Mean Acc: 0.9195 		 Freqw Acc: 0.9982 		 Mean IOU: 0.8531 %
+
+		 Epsilon : 0.1010 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.9289 		 Freqw Acc: 0.9974 		 Mean IOU: 0.8944 %
+
+		 Epsilon : 0.1111 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9987  		 Mean Acc: 0.9661 		 Freqw Acc: 0.9977 		 Mean IOU: 0.8553 %
+
+		 Epsilon : 0.1212 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9974  		 Mean Acc: 0.8190 		 Freqw Acc: 0.9949 		 Mean IOU: 0.8122 %
+
+		 Epsilon : 0.1313 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.8726 		 Freqw Acc: 0.9973 		 Mean IOU: 0.8618 %
+
+		 Epsilon : 0.1414 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9987  		 Mean Acc: 0.8899 		 Freqw Acc: 0.9976 		 Mean IOU: 0.8624 %
+
+		 Epsilon : 0.1515 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.9270 		 Freqw Acc: 0.9972 		 Mean IOU: 0.8984 %
+
+		 Epsilon : 0.1616 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9988  		 Mean Acc: 0.8166 		 Freqw Acc: 0.9976 		 Mean IOU: 0.7917 %
+
+		 Epsilon : 0.1717 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9972  		 Mean Acc: 0.8450 		 Freqw Acc: 0.9947 		 Mean IOU: 0.8065 %
+
+		 Epsilon : 0.1818 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.8407 		 Freqw Acc: 0.9927 		 Mean IOU: 0.8209 %
+
+		 Epsilon : 0.1919 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9977  		 Mean Acc: 0.7100 		 Freqw Acc: 0.9955 		 Mean IOU: 0.6896 %
+
+		 Epsilon : 0.2020 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.999%
+ 		 Overall Acc: 0.9993  		 Mean Acc: 0.7356 		 Freqw Acc: 0.9985 		 Mean IOU: 0.7274 %
+
+		 Epsilon : 0.2121 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9971  		 Mean Acc: 0.6067 		 Freqw Acc: 0.9943 		 Mean IOU: 0.6048 %
+
+		 Epsilon : 0.2222 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9941  		 Mean Acc: 0.6438 		 Freqw Acc: 0.9885 		 Mean IOU: 0.6362 %
+
+		 Epsilon : 0.2323 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9971  		 Mean Acc: 0.7153 		 Freqw Acc: 0.9943 		 Mean IOU: 0.7074 %
+
+		 Epsilon : 0.2424 		 Inverse FGSM testing Loss: : 0.0000 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9966  		 Mean Acc: 0.7062 		 Freqw Acc: 0.9933 		 Mean IOU: 0.7007 %
+
+		 Epsilon : 0.2525 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9960  		 Mean Acc: 0.5526 		 Freqw Acc: 0.9921 		 Mean IOU: 0.5490 %
+
+		 Epsilon : 0.2626 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9933  		 Mean Acc: 0.5923 		 Freqw Acc: 0.9867 		 Mean IOU: 0.5866 %
+
+		 Epsilon : 0.2727 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9960  		 Mean Acc: 0.5129 		 Freqw Acc: 0.9919 		 Mean IOU: 0.5108 %
+
+		 Epsilon : 0.2828 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9955  		 Mean Acc: 0.5240 		 Freqw Acc: 0.9910 		 Mean IOU: 0.5218 %
+
+		 Epsilon : 0.2929 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9957  		 Mean Acc: 0.6059 		 Freqw Acc: 0.9914 		 Mean IOU: 0.6026 %
+
+		 Epsilon : 0.3030 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9950  		 Mean Acc: 0.5045 		 Freqw Acc: 0.9900 		 Mean IOU: 0.5020 %
+
+		 Epsilon : 0.3131 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9930  		 Mean Acc: 0.5137 		 Freqw Acc: 0.9860 		 Mean IOU: 0.5102 %
+
+		 Epsilon : 0.3232 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9953  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9906 		 Mean IOU: 0.4976 %
+
+		 Epsilon : 0.3333 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9957  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9914 		 Mean IOU: 0.4978 %
+
+		 Epsilon : 0.3434 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9956  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9912 		 Mean IOU: 0.4978 %
+
+		 Epsilon : 0.3535 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9951  		 Mean Acc: 0.5016 		 Freqw Acc: 0.9903 		 Mean IOU: 0.4991 %
+
+		 Epsilon : 0.3636 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9935  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9871 		 Mean IOU: 0.4968 %
+
+		 Epsilon : 0.3737 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9936  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9873 		 Mean IOU: 0.4968 %
+
+		 Epsilon : 0.3838 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9949  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9899 		 Mean IOU: 0.4975 %
+
+		 Epsilon : 0.3939 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9940  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9880 		 Mean IOU: 0.4970 %
+
+		 Epsilon : 0.4040 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.990%
+ 		 Overall Acc: 0.9900  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9801 		 Mean IOU: 0.4950 %
+
+		 Epsilon : 0.4141 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9953  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9907 		 Mean IOU: 0.4977 %
+
+		 Epsilon : 0.4242 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9966  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9931 		 Mean IOU: 0.4983 %
+
+		 Epsilon : 0.4343 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.990%
+ 		 Overall Acc: 0.9902  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9804 		 Mean IOU: 0.4951 %
+
+		 Epsilon : 0.4444 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9961  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9921 		 Mean IOU: 0.4980 %
+
+		 Epsilon : 0.4545 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9937  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9875 		 Mean IOU: 0.4969 %
+
+		 Epsilon : 0.4646 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9943  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9886 		 Mean IOU: 0.4971 %
+
+		 Epsilon : 0.4747 		 Inverse FGSM testing Loss: : 0.0001 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9974  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9947 		 Mean IOU: 0.4987 %
+
+		 Epsilon : 0.4848 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9920  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9840 		 Mean IOU: 0.4960 %
+
+		 Epsilon : 0.4949 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9950  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9900 		 Mean IOU: 0.4975 %
+
+		 Epsilon : 0.5051 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9941  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9883 		 Mean IOU: 0.4971 %
+
+		 Epsilon : 0.5152 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9911  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9822 		 Mean IOU: 0.4955 %
+
+		 Epsilon : 0.5253 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.990%
+ 		 Overall Acc: 0.9904  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9810 		 Mean IOU: 0.4952 %
+
+		 Epsilon : 0.5354 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9946  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9892 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.5455 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9927  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9854 		 Mean IOU: 0.4963 %
+
+		 Epsilon : 0.5556 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9944  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9888 		 Mean IOU: 0.4972 %
+
+		 Epsilon : 0.5657 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9973  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9947 		 Mean IOU: 0.4987 %
+
+		 Epsilon : 0.5758 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9975  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9949 		 Mean IOU: 0.4987 %
+
+		 Epsilon : 0.5859 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9953  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9907 		 Mean IOU: 0.4977 %
+
+		 Epsilon : 0.5960 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9942  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9884 		 Mean IOU: 0.4971 %
+
+		 Epsilon : 0.6061 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9935  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9871 		 Mean IOU: 0.4968 %
+
+		 Epsilon : 0.6162 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9953  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9907 		 Mean IOU: 0.4977 %
+
+		 Epsilon : 0.6263 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9970  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9940 		 Mean IOU: 0.4985 %
+
+		 Epsilon : 0.6364 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9921  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9843 		 Mean IOU: 0.4961 %
+
+		 Epsilon : 0.6465 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9925 		 Mean IOU: 0.4981 %
+
+		 Epsilon : 0.6566 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9945  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9890 		 Mean IOU: 0.4972 %
+
+		 Epsilon : 0.6667 		 Inverse FGSM testing Loss: : 0.0011 		 Inverse FGSM testing IoU: 0.990%
+ 		 Overall Acc: 0.9899  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9799 		 Mean IOU: 0.4949 %
+
+		 Epsilon : 0.6768 		 Inverse FGSM testing Loss: : 0.0014 		 Inverse FGSM testing IoU: 0.986%
+ 		 Overall Acc: 0.9859  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9720 		 Mean IOU: 0.4930 %
+
+		 Epsilon : 0.6869 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9966  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9933 		 Mean IOU: 0.4983 %
+
+		 Epsilon : 0.6970 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9940  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9880 		 Mean IOU: 0.4970 %
+
+		 Epsilon : 0.7071 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9909  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9819 		 Mean IOU: 0.4954 %
+
+		 Epsilon : 0.7172 		 Inverse FGSM testing Loss: : 0.0009 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9915  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9831 		 Mean IOU: 0.4958 %
+
+		 Epsilon : 0.7273 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9927  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9854 		 Mean IOU: 0.4963 %
+
+		 Epsilon : 0.7374 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9923  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9846 		 Mean IOU: 0.4961 %
+
+		 Epsilon : 0.7475 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9946  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9893 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.7576 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9919  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9838 		 Mean IOU: 0.4959 %
+
+		 Epsilon : 0.7677 		 Inverse FGSM testing Loss: : 0.0009 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9917  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9834 		 Mean IOU: 0.4958 %
+
+		 Epsilon : 0.7778 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9959 		 Mean IOU: 0.4990 %
+
+		 Epsilon : 0.7879 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.992%
+ 		 Overall Acc: 0.9923  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9847 		 Mean IOU: 0.4962 %
+
+		 Epsilon : 0.7980 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9968  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9936 		 Mean IOU: 0.4984 %
+
+		 Epsilon : 0.8081 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9956  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9911 		 Mean IOU: 0.4978 %
+
+		 Epsilon : 0.8182 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9938  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9876 		 Mean IOU: 0.4969 %
+
+		 Epsilon : 0.8283 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9947  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9894 		 Mean IOU: 0.4973 %
+
+		 Epsilon : 0.8384 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9955  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9911 		 Mean IOU: 0.4978 %
+
+		 Epsilon : 0.8485 		 Inverse FGSM testing Loss: : 0.0014 		 Inverse FGSM testing IoU: 0.988%
+ 		 Overall Acc: 0.9884  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9769 		 Mean IOU: 0.4942 %
+
+		 Epsilon : 0.8586 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9980  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9960 		 Mean IOU: 0.4990 %
+
+		 Epsilon : 0.8687 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9957  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9914 		 Mean IOU: 0.4979 %
+
+		 Epsilon : 0.8788 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.993%
+ 		 Overall Acc: 0.9934  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9869 		 Mean IOU: 0.4967 %
+
+		 Epsilon : 0.8889 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9943  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9886 		 Mean IOU: 0.4971 %
+
+		 Epsilon : 0.8990 		 Inverse FGSM testing Loss: : 0.0003 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9973  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9946 		 Mean IOU: 0.4986 %
+
+		 Epsilon : 0.9091 		 Inverse FGSM testing Loss: : 0.0002 		 Inverse FGSM testing IoU: 0.998%
+ 		 Overall Acc: 0.9982  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9964 		 Mean IOU: 0.4991 %
+
+		 Epsilon : 0.9192 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9924 		 Mean IOU: 0.4981 %
+
+		 Epsilon : 0.9293 		 Inverse FGSM testing Loss: : 0.0006 		 Inverse FGSM testing IoU: 0.995%
+ 		 Overall Acc: 0.9950  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9901 		 Mean IOU: 0.4975 %
+
+		 Epsilon : 0.9394 		 Inverse FGSM testing Loss: : 0.0011 		 Inverse FGSM testing IoU: 0.991%
+ 		 Overall Acc: 0.9908  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9816 		 Mean IOU: 0.4954 %
+
+		 Epsilon : 0.9495 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9963  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9927 		 Mean IOU: 0.4982 %
+
+		 Epsilon : 0.9596 		 Inverse FGSM testing Loss: : 0.0008 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9939  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9877 		 Mean IOU: 0.4969 %
+
+		 Epsilon : 0.9697 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9957  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9914 		 Mean IOU: 0.4979 %
+
+		 Epsilon : 0.9798 		 Inverse FGSM testing Loss: : 0.0004 		 Inverse FGSM testing IoU: 0.997%
+ 		 Overall Acc: 0.9972  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9945 		 Mean IOU: 0.4986 %
+
+		 Epsilon : 0.9899 		 Inverse FGSM testing Loss: : 0.0005 		 Inverse FGSM testing IoU: 0.996%
+ 		 Overall Acc: 0.9955  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9911 		 Mean IOU: 0.4978 %
+
+		 Epsilon : 1.0000 		 Inverse FGSM testing Loss: : 0.0007 		 Inverse FGSM testing IoU: 0.994%
+ 		 Overall Acc: 0.9938  		 Mean Acc: 0.5000 		 Freqw Acc: 0.9877 		 Mean IOU: 0.4969 %
+
+ ------------------------------------- Standard testing after adversarial training(Clean images--------------------------------------
+
+Epoch : 0 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.999%
+ 		 Overall Acc: 0.9986  		 Mean Acc: 0.5929 		 Freqw Acc: 0.9972 		 Mean IOU: 0.5906 %
+
+Epoch : 1 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9964  		 Mean Acc: 0.7366 		 Freqw Acc: 0.9930 		 Mean IOU: 0.7136 %
+
+Epoch : 2 
+ 		 testing Loss: : 0.0007 		 testing IoU: 0.995%
+ 		 Overall Acc: 0.9948  		 Mean Acc: 0.6193 		 Freqw Acc: 0.9900 		 Mean IOU: 0.6098 %
+
+Epoch : 3 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9957  		 Mean Acc: 0.5745 		 Freqw Acc: 0.9915 		 Mean IOU: 0.5706 %
+
+Epoch : 4 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9980  		 Mean Acc: 0.5225 		 Freqw Acc: 0.9961 		 Mean IOU: 0.5214 %
+
+Epoch : 5 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5223 		 Freqw Acc: 0.9927 		 Mean IOU: 0.5195 %
+
+Epoch : 6 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.6073 		 Freqw Acc: 0.9934 		 Mean IOU: 0.5758 %
+
+Epoch : 7 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9972  		 Mean Acc: 0.7447 		 Freqw Acc: 0.9947 		 Mean IOU: 0.7183 %
+
+Epoch : 8 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9979  		 Mean Acc: 0.7909 		 Freqw Acc: 0.9960 		 Mean IOU: 0.7652 %
+
+Epoch : 9 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9962  		 Mean Acc: 0.5810 		 Freqw Acc: 0.9925 		 Mean IOU: 0.5775 %
+
+Epoch : 10 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9967  		 Mean Acc: 0.5119 		 Freqw Acc: 0.9936 		 Mean IOU: 0.5096 %
+
+Epoch : 11 
+ 		 testing Loss: : 0.0005 		 testing IoU: 0.994%
+ 		 Overall Acc: 0.9936  		 Mean Acc: 0.6137 		 Freqw Acc: 0.9874 		 Mean IOU: 0.6074 %
+
+Epoch : 12 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.995%
+ 		 Overall Acc: 0.9955  		 Mean Acc: 0.5953 		 Freqw Acc: 0.9913 		 Mean IOU: 0.5866 %
+
+Epoch : 13 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9969  		 Mean Acc: 0.6436 		 Freqw Acc: 0.9939 		 Mean IOU: 0.6421 %
+
+Epoch : 14 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.998%
+ 		 Overall Acc: 0.9978  		 Mean Acc: 0.4999 		 Freqw Acc: 0.9958 		 Mean IOU: 0.4989 %
+
+Epoch : 15 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.994%
+ 		 Overall Acc: 0.9944  		 Mean Acc: 0.7089 		 Freqw Acc: 0.9892 		 Mean IOU: 0.6900 %
+
+Epoch : 16 
+ 		 testing Loss: : 0.0005 		 testing IoU: 0.994%
+ 		 Overall Acc: 0.9944  		 Mean Acc: 0.6144 		 Freqw Acc: 0.9892 		 Mean IOU: 0.6043 %
+
+Epoch : 17 
+ 		 testing Loss: : 0.0011 		 testing IoU: 0.991%
+ 		 Overall Acc: 0.9915  		 Mean Acc: 0.5247 		 Freqw Acc: 0.9830 		 Mean IOU: 0.5203 %
+
+Epoch : 18 
+ 		 testing Loss: : 0.0011 		 testing IoU: 0.992%
+ 		 Overall Acc: 0.9917  		 Mean Acc: 0.5554 		 Freqw Acc: 0.9841 		 Mean IOU: 0.5479 %
+
+Epoch : 19 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.995%
+ 		 Overall Acc: 0.9949  		 Mean Acc: 0.6519 		 Freqw Acc: 0.9900 		 Mean IOU: 0.6459 %
+
+Epoch : 20 
+ 		 testing Loss: : 0.0005 		 testing IoU: 0.993%
+ 		 Overall Acc: 0.9934  		 Mean Acc: 0.5738 		 Freqw Acc: 0.9875 		 Mean IOU: 0.5641 %
+
+Epoch : 21 
+ 		 testing Loss: : 0.0005 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9961  		 Mean Acc: 0.5277 		 Freqw Acc: 0.9922 		 Mean IOU: 0.5257 %
+
+Epoch : 22 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9973  		 Mean Acc: 0.6377 		 Freqw Acc: 0.9947 		 Mean IOU: 0.6347 %
+
+Epoch : 23 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9968  		 Mean Acc: 0.6477 		 Freqw Acc: 0.9940 		 Mean IOU: 0.6327 %
+
+Epoch : 24 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.995%
+ 		 Overall Acc: 0.9950  		 Mean Acc: 0.6804 		 Freqw Acc: 0.9904 		 Mean IOU: 0.6675 %
+
+Epoch : 25 
+ 		 testing Loss: : 0.0002 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9966  		 Mean Acc: 0.5153 		 Freqw Acc: 0.9932 		 Mean IOU: 0.5136 %
+
+Epoch : 26 
+ 		 testing Loss: : 0.0001 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9971  		 Mean Acc: 0.7067 		 Freqw Acc: 0.9947 		 Mean IOU: 0.6698 %
+
+Epoch : 27 
+ 		 testing Loss: : 0.0004 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9968  		 Mean Acc: 0.5531 		 Freqw Acc: 0.9939 		 Mean IOU: 0.5480 %
+
+Epoch : 28 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.997%
+ 		 Overall Acc: 0.9968  		 Mean Acc: 0.4999 		 Freqw Acc: 0.9936 		 Mean IOU: 0.4984 %
+
+Epoch : 29 
+ 		 testing Loss: : 0.0003 		 testing IoU: 0.996%
+ 		 Overall Acc: 0.9957  		 Mean Acc: 0.6371 		 Freqw Acc: 0.9918 		 Mean IOU: 0.6249 %

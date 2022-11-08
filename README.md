@@ -8,3 +8,7 @@ should be changed according to preference).
 To run project, enter following command in terminal:
 
 bash run.sh
+
+![image](https://user-images.githubusercontent.com/44375705/200610845-58f11409-7810-4abb-b573-d26fdb241d2d.png)
+
+
